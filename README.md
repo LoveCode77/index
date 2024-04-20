@@ -1,3 +1,15 @@
+## 项目问题
+
+由于部分问题，本地需要保留一份
+
+对应的页面如下
+
+![1713412489574](images/1713412489574.png)
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/EricZHN/EricZHN.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
